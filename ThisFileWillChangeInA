@@ -29,22 +29,14 @@ THIS FILE WILL DIFFERENT IN A
 THIS FILE WILL DIFFERENT IN A
 THIS FILE WILL DIFFERENT IN A
 THIS FILE WILL DIFFERENT IN A
-THIS FILE WILL DIFFERENT IN A
-THIS FILE WILL DIFFERENT IN A
-THIS FILE WILL DIFFERENT IN A
-THIS FILE WILL DIFFERENT IN A
-MORE CHANGES IN A
-MORE CHANGES IN Aiiiiiiiiiiiiiiiii
-MORE CHANGES IN iiiiiiiiiiiiA
-MORE CHANGES IN A
-MORE CHANGES IN Aaaaaaaaaaaaaaaaa
-MORE CHANGES IN A
-MORE CHANGES IN A
-MORE CHANGES IN Akaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-MORE CHANGES IN A
-MORE CHANGES IN A
-MORE CHANGES IN A
-MORE CHANGES IN Aiiiiiiiiiiiiiii
-MORE CHANGES IN A
-MORE CHANGES IN A
-MORE CHANGES IN aaaaaaaaaaaaaaaaaaaaaaaaaaaaaA
+The golden rule of git rebase is to never use it on public branches.
+iiiiiiiiiiiiiiiiiiii
+
+Rewrites the selected commits ( all the commits from since a common ancestor)  and puts them at the front of a branch.
+Since we are rewriting history this is a very dangerous thing to do
+
+
+
+
+
+
